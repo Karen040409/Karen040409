@@ -44,35 +44,6 @@
 
 ---
 
-## 🚀 Key Projects
-
-### 🐾 SavePaws — Animal Rescue Mobile Application
-> `React Native (Expo)` · `Node.js` · `Express.js` · `MySQL`
-
-- Built a full-stack mobile app to centralize fragmented animal rescue efforts
-- Developed the complete **Animal Rescue Subsystem** — mobile UI, backend REST APIs, and MySQL database schema
-- Collaborated in a team environment following Agile development practices
-
----
-
-### 🧠 Mindlink — Mental Health Platform
-> `Java` · `Jakarta EE` · `MySQL` · `JDBC` · `Apache Tomcat` · `JSP/Servlets`
-
-- Designed and developed 2 core modules: **Community Support** and **Smart Assistant**
-- Architected and managed complex MySQL schemas for chatbot logs, forum interactions, and daily wellness tips
-- Built backend logic using Jakarta EE with clean separation of concerns
-
----
-
-### 🥽 VRMeetUp — Multiplatform VR Meeting Environment
-> `Unity` · `C#` · `XR Interaction Toolkit` · `GitHub`
-
-- Refactored a senior's multiplayer VR project to support both **Mobile and PC** platforms
-- Ensured the meeting environment is accessible without specialized VR hardware
-- Applied software engineering principles to legacy codebase restructuring
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
