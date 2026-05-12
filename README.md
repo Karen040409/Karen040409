@@ -3,11 +3,11 @@
 # Hi, I'm Karen Voon Xiu Wen👋
 <img align="center" width="500" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="programmer gif"/>
 
-### `Year 3 · Computer Science (Software Engineering) · UTM Johor Bahru`
+### `Year 3 Degree Student · Computer Science (Software Engineering) · UTM Johor Bahru`
  
 *crafting clean code · building real things · always learning*
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Year+3+Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Mobile+App+Builder+%F0%9F%93%B1;Java+%2B+JavaScript+Enthusiast+%E2%9A%A1;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Year+3+Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Web+And+Mobile+App+Builder+%F0%9F%93%B1;;)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### Languages I had learned
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
