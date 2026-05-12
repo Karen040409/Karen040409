@@ -1,20 +1,12 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ███████╗███╗   ██╗
-██║ ██╔╝██╔══██╗██╔══██╗██╔════╝████╗  ██║
-█████╔╝ ███████║██████╔╝█████╗  ██╔██╗ ██║
-██╔═██╗ ██╔══██║██╔══██╗██╔══╝  ██║╚██╗██║
-██║  ██╗██║  ██║██║  ██║███████╗██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
-```
-
-### `< software engineer in the making />`
-
+# Hi, I'm Karen Voon Xiu Wen👋
+ 
+### `Year 3 · Computer Science (Software Engineering) · UTM Johor Bahru`
+ 
 *crafting clean code · building real things · always learning*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Mobile+App+Builder+%F0%9F%93%B1;Java+%2B+JavaScript+Enthusiast+%E2%9A%A1;UTM+CS+Student+%7C+CGPA+3.89+%F0%9F%8E%93;Open+for+Internship+Sep+2026+%E2%9C%A8)](https://git.io/typing-svg)
-
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Year+3+Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Mobile+App+Builder+%F0%9F%93%B1;Java+%2B+JavaScript+Enthusiast+%E2%9A%A1;)](https://git.io/typing-svg)
 </div>
 
 ---
