@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi, I'm Karen Voon Xiu Wen👋
- 
+<img align="center" width="500" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="programmer gif"/>
+
 ### `Year 3 · Computer Science (Software Engineering) · UTM Johor Bahru`
  
 *crafting clean code · building real things · always learning*
